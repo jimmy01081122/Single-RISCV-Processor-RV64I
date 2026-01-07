@@ -1,8 +1,13 @@
 # Single-RiscV-Processor-RV64I
+
 NTU CSIE 2025 FALL CA
+
 課程名稱 ：計算機結構 Computer Architecture 
+
 開課學期 ：2025 FALL (114-1)
+
 授課教師 ：洪士灝 教授
+
 課號：CSIE3340 
 
 實作簡述 ：
