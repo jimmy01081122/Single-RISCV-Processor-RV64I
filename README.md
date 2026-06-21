@@ -1,8 +1,8 @@
 # Single-RiscV-Processor-RV64I
 
-NTU CSIE 2025 FALL CA
 
-課程名稱 ：計算機結構 Computer Architecture 
+
+課程名稱 ：計算機結構 Computer Architecture, from NTU 
 
 開課學期 ：2025 FALL (114-1)
 
